@@ -19,7 +19,7 @@ Every core feature in Cakey Bot is FREE. The only things locked behind premium a
 Cakey Bot allows most users to use every aspect of the bot without paying anything while still allowing the bot to gain some income from large servers that require higher limits than the average server.
 
 {% hint style="info" %}
-Premium - $3.99 per month or 39.99 per year
+Premium - $3.99 per month or $39.99 per year
 {% endhint %}
 
 {% embed url="https://cakey.bot/" %}
