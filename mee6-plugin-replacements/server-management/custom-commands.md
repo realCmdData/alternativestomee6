@@ -23,3 +23,18 @@ You can obviously create slash commands, regular word commands and reaction comm
 💵 Custom Command Bot limits how often you can send commands and also how many commands you can create. You can upgrade for $6 per Month or $8 per Month if you also want all of your members to be cached (ie. Very quickly accessible by the bot)
 
 {% embed url="https://ccommandbot.com/" %}
+
+### 🔍 Alternative 3: [Cakey Bot](https://cakey.bot/)
+
+Auto Responders is the name that Cakey Bot uses for their automations and custom commands however the function basically the same. Cakey Bot allows you to create a ton of automatic responses to various messages and events.
+Cakey bot also provides a ton of pre-made trigger types like "Contains image attachment", "Contains Files" or "From Webhook" which allows you to easily respond to plenty of message types.
+
+For the more advanced power users you can even configure Cakey Bot to trigger using 'wildcard' triggers or even full regex matching to allow extremely flexible triggers!
+
+In addition to this, Cakey Bot has a HUGE collection of custom "placeholders" that allow you to configure how the bot responds when an auto responder has been triggered. Some of these palceholders allow you to add reactions to the message, ban/mute the user, add leveling XP, send a DM, and much more.
+
+You can also sue placeholders to configure Cakey Bot to ignore specific roles, channels and users (or vice-versa only respond to specific roles, channels and users). You can even have Cakey Bot add or modify tags for forum thread posts automatically and limit triggers to only the original post, or only comments for threads.
+
+💵 Cakey Bot gives you a very generous 250 Auto Responders to start, and for $3.99 per month you can upgrade that to **unlimited**.
+
+{% embed url="https://cakey.bot/" %}

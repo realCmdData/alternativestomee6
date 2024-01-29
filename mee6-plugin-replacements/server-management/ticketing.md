@@ -27,3 +27,13 @@ What also is concerning is that Helper.gg is only one bot amongst a planned many
 💵 Helper.gg's Premium is $4 per Month for Ticket Automation and Translation, and for a total $6 per Month their Supreme upgrade gives you complete bot customization.
 
 {% embed url="https://helper.gg/" %}
+
+### 🔍 Alternative 3: [Cakey Bot](https://cakey.bot/)
+
+Cakey Bot is a powerful all in one bot which means it has a ton of features including support tickets. However, this also comes with the draw back that the support ticket system will be a bit more limited compared to the dedicated ticketing bots listed above. 
+Even with that minor draw back, Cakey Bot provides tons of customziation for their ticketing system. You can configure custom staff roles, the ability to ping the staff member and even allow users to provide feedback ratings on the support they were given.
+Tickets also have a fancy full HTML web-based transcript of every support conversationt which includes images and such that were posted in the ticket. Cakey Bot also provides a selection of "premade" support ticket embeds that allow users to select from a variety of popular issues when opening a ticket, or you can have users provide a custom text reason when opening their ticket.
+
+💵 Cakey Bot's ticketing system itself is FREE however you can upgrade to premium for $3.99 per Month and unlock the ability to automatically save transcripts for tickets. (Manual transcript saving is free)
+
+{% embed url="https://cakey.bot/" %}

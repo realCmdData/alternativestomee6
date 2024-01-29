@@ -17,7 +17,18 @@ If you desire you can export your entire server leaderboard in one click in the 
 
 {% embed url="https://lurkr.gg/" %}
 
-### 🔍 Alternative 2: Polaris
+### 🔍 Alternative 2: [Cakey Bot](https://cakey.bot/)
+
+Cakey Bot also strives to be a complete drop-in replacement to MEE6. While also supporting the same customization and features as MEE6 but for free. You can even directly import your leaderbaord data from Mee6 with a simple slash command. In addition to this, Cakey bot uses the same leveling algorithm as MEE6 meaning your users will continue to level up at the same speed as they expect.
+As with MEE6, you can configure multiple role rewards for when your users level up as well as setting custom xP rates and even double XP days! Like most leveling bots you can configure both voice and text leveling for XP.
+
+In addition to this, since Cakey Bot is an all-in-one bot, some of Cakey Bot's other features (specifically Achievements and Auto Responders) also have the capability to grant extra XP to users when they meet specific requirements to further increase user activity and participation within your server!
+
+💵 Cakey Bot provides a premium plan for $3.99 a month which allows you some additional customization such as a vanity url for your leaderboard.
+
+{% embed url="https://cakey.bot/" %}
+
+### 🔍 Alternative 3: Polaris
 
 Polaris is a great alternative to MEE6 aswell, and shares a lot of it's core features with Lurkr. It offers pretty much the same leveling customization, including a mathematical leveling curve adjustment for you to completely adjust the leveling curve and determine how difficult it should be to level up, the higher of a level your users already are.
 
