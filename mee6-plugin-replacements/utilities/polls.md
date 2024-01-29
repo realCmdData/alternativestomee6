@@ -25,3 +25,10 @@ It's definitely a great choice for people who either want these specific feature
 💵 EasyPoll is **completely free**!
 
 {% embed url="https://easypoll.bot/" %}
+
+### 🔍 Alternative 3: [Cakey Bot](https://cakey.bot/)
+
+Cakey Bot is quite a bit limited with polls compared to some of the other bots listed above, however, it does include a simple polls command. You can use slash commands to create a poll which then creates a fancy embed with your questions and options that users can vote on similar to other poll bots.
+💵 Cakey Bot polls is **completely free**!
+
+{% embed url="https://cakey.bot/" %}

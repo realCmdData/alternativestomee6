@@ -23,3 +23,12 @@ For that small oversight it does make up for with sheer number of customization 
 💵 Adding a Custom Background to your Welcome Image is a premium feature for a one-time payment of $6
 
 {% embed url="https://www.welcomer.gg" %}
+
+### 🔍 Alternative 3: [Cakey Bot](https://cakey.bot/)
+
+Cakey Bot also provides a welcome and goodbye image and announcement system. Like most bots you can specify where the announcements should be sent, whether to include any text or to use an image banner. In addition to this Cakey Bot also allows you to send announcement-like posts when a user is banned or if someone boosts your server.
+By default, Cakey Bot provides 2 free image banners that you can use, however, premium users get the added benefit of being able to use an entirely custom image URL. In addition to this, premium users cna also create and send an entirely custom embed with their announcements including advanced text placeholders for additional customization!
+
+💵 Adding a Custom Embed or a Custom Image to your announcements is a premium feature for $3.99 per month (Cakey Bot provides 2 free image banners however)
+
+{% embed url="https://cakey.bot/" %}
