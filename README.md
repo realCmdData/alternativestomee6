@@ -54,7 +54,7 @@ Join our Alternatives to MEE6 server to get help with transitioning, support wit
 
 {% embed url="https://discord.gg/CGDxnTQSTj" %}
 
-### 👦💻 Want to contribute?
+### 🧑‍💻 Want to Contribute?
 
 Fork our GitHub Repository, add your content (preferrably in the same MarkDown and GitBook style as already featured on the pages, and create a pull request!
 
