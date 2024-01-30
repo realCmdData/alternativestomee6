@@ -2,7 +2,17 @@
 
 ### 👑 MEE6
 
-We're actually not entirely sure what you can do with the MEE6 Moderator feature since it's a Premium feature and doesn't show us what you can configure if you had Premium. They describe it as: "Boost your engagement by making your members compete and earn rewards by being active." and it costs €12 per Month.
+MEE6 Leveling is made up of 2 types. Leveling message, and leveling roles. Leveling message tab is really not impressive, only thing you can edit is what mee6 sends, and the channel that its sent to.
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+As for level Roles and Channels, it just contains that.
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+They describe it as: "Boost your engagement by making your members compete and earn rewards by being active." and it costs €12 per Month.
+
+as for the price of €12 per Month, it is a complete ripoff.
 
 ### 🔍 Alternative 1: Lurkr
 
@@ -13,7 +23,7 @@ Lurkr strives to be the complete replacement for MEE6 leveling, offering more cu
 Every server that runs Lurkr as their leveling bot has an almost unrecognizable leveling system thanks to it's customization. And on the off-chance you're not happy with it, they don't hold your data hostage!\
 If you desire you can export your entire server leaderboard in one click in the dashboard!
 
-💵 Lurkr offers a Personal Premium plan for $1 a month to simply support the bot, and a Server Premium plan for $5 a month which massively increases a lot of the configuration limits.&#x20;
+💵 Lurkr offers a Personal Premium plan for $1 a month to simply support the bot, and a Server Premium plan for $5 a month which massively increases a lot of the configuration limits.
 
 {% embed url="https://lurkr.gg/" %}
 

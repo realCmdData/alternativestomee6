@@ -2,7 +2,13 @@
 
 ### 👑 MEE6
 
-We're actually not entirely why the Custom Commands section needs to be a completely separate section/"plugin" and doesn't show us what you can configure if you had Premium.. Our guess is it's just another premium feature to boast. They describe it as: "Automate tedious tasks or provide quick access to frequently used information using /commands." and it costs €12 per Month.
+MEE6 Custom Commands are exactly what it says. Creating custom prefixed commands in the server.
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+They describe it as: "Automate tedious tasks or provide quick access to frequently used information using /commands." and it costs €12 per Month.
+
+As for the price of €12 per Month, it is a complete ripoff. why spend €12 per Month  when you can get custom commands for free in most bots.
 
 ### 🔍 Alternative 1: Altas Bot
 

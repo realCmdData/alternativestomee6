@@ -42,7 +42,7 @@ No Text To Speech made an excellent video demonstrating the sheer amount of gree
 
 Our website shows you on the left the different sections for resources. The top labeled "All in One Replacements" offer alternative bots that should encompass a lot of features that for most people it's a drop-in replacement.
 
-Below that we have a section labeled "MEE6 Plugin Replacements". These showcase bots, sometimes multiple bots that can specifically replace one MEE6 "Plugin" which we have categorized in said categories.&#x20;
+Below that we have a section labeled "MEE6 Plugin Replacements". These showcase bots, sometimes multiple bots that can specifically replace one MEE6 "Plugin" which we have categorized in said categories.
 
 {% hint style="info" %}
 The 👑 emoji next to the plugin section indicates which ones are MEE6 Premium **only**. Yeah it's a lot.
@@ -54,3 +54,10 @@ Join our Alternatives to MEE6 server to get help with transitioning, support wit
 
 {% embed url="https://discord.gg/CGDxnTQSTj" %}
 
+## 👦💻 Want to contribute?
+
+Fork our GitHub Repository, add your content (preferrably in the same MarkDown and GitBook style as already featured on the pages, and create a pull request!
+
+If you're contributions are significant enough and are of good quality, I'll merge and it'll be reflected on the website!
+
+{% embed url="https://github.com/realCmdData/alternativestomee6" %}

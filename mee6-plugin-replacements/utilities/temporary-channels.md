@@ -2,15 +2,19 @@
 
 ### 👑 MEE6
 
-We're actually not entirely sure what you can do with the MEE6 Temporary Channel feature since it's a Premium feature and doesn't show us what you can configure if you had Premium. They describe it as: "Create temporary voice channels that are automatically deleted after a certain amount of time." and it costs €12 per Month.
+MEE6 Temporary channel plugin is used to create temporary voice channels where your members can create a hub, where they can invite other friends.
+
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+They describe it as: "Create temporary voice channels that are automatically deleted after a certain amount of time." and it costs €12 per Month.
 
 ### 🔍 Alternative 1: EmpyManager
 
-EmpyManager, although it is an... intersting name for it's designed purpose is a very well thought out Temporary Voice Channel bot. It's setup with just one command and allows users to use commands and buttons in much the same fashion as TempVoice to control the temporary channel.&#x20;
+EmpyManager, although it is an... intersting name for it's designed purpose is a very well thought out Temporary Voice Channel bot. It's setup with just one command and allows users to use commands and buttons in much the same fashion as TempVoice to control the temporary channel.
 
-It's dashboard is rudementary in terms of features, things that are nice to have but is definitely not enough and not complex enough to warrant using a dashboard.&#x20;
+It's dashboard is rudementary in terms of features, things that are nice to have but is definitely not enough and not complex enough to warrant using a dashboard.
 
-The Premium model is a lot more appealing though since it gives you 2 "Creator" channels right off the bat. The premium version also includes some features like self-roles that aren't the reason you invited the bot.&#x20;
+The Premium model is a lot more appealing though since it gives you 2 "Creator" channels right off the bat. The premium version also includes some features like self-roles that aren't the reason you invited the bot.
 
 💵 Premium is €3.50 per Month and Premium+ is €7 per Month
 

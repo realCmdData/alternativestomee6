@@ -2,7 +2,13 @@
 
 ### 👑 MEE6
 
-We're actually not entirely sure what you can do with the MEE6 Ticketing feature since it's a Premium feature and doesn't show us what you can configure if you had Premium. They describe it as: "Streamline and organize the support process and allow users to submit support requests." and it costs €12 per Month.
+MEE6 Ticketing Plugin creates a ticket in your desired channel.
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+They describe it as: "Streamline and organize the support process and allow users to submit support requests." and it costs €12 per Month.
+
+As for the price of €12 per Month, it is a complete ripoff.
 
 ### 🔍 Alternative 1: Ticket King
 
@@ -16,11 +22,11 @@ The only drawback is that the free version is only limited to letting you genera
 
 {% embed url="https://ticketking.xyz/" %}
 
-### 🔍 Alternative 2: Helper.gg&#x20;
+### 🔍 Alternative 2: Helper.gg
 
-Helper.gg is a solid Ticketing Bot aswell that has some unique features that Ticket King doesn't, such as letting admins view statistics of the tickets that are being generated, a web-overview of all past and currently in progress Tickets, and a whole load of interesting customization features.&#x20;
+Helper.gg is a solid Ticketing Bot aswell that has some unique features that Ticket King doesn't, such as letting admins view statistics of the tickets that are being generated, a web-overview of all past and currently in progress Tickets, and a whole load of interesting customization features.
 
-Unfortunately some really helpful automation features such as automatically closing a ticket after a certain time without a response has passed and closing a ticket when a user leaves the server are locked behind a premium model.&#x20;
+Unfortunately some really helpful automation features such as automatically closing a ticket after a certain time without a response has passed and closing a ticket when a user leaves the server are locked behind a premium model.
 
 What also is concerning is that Helper.gg is only one bot amongst a planned many different bots made by a company, Parent.gg. This means that it's not being run by avid developers but a company made to make a profit which could lead to the same sort of practices that MEE6 has adopted in the future, but for now we think it's a good enough bot to use.
 
