@@ -7,3 +7,5 @@ Some events? What are some? Don’t you worry, logger won’t skimp out on logs!
 {% hint style="info" %}
 Price: 0$
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
