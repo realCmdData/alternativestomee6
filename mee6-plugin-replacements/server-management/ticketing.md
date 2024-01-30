@@ -32,9 +32,10 @@ What also is concerning is that Helper.gg is only one bot amongst a planned many
 
 Tickety is a handy tool for Discord servers. You can close tickets for free when a user leaves, claim tickets easily, assign multiple support roles to a single panel, and assign each panel its own category. It comes with both an in-discord editor and a user-friendly dashboard for your convenience. Plus, you can check your server's history from the web panel.
 You also have no ticket limit and a max of 25 panels on the free plan which seems fair.
+It's possible to create autoresponders (or custom commands) for free. They can either work in all of the channels or ticket-only channels, require a specific role to use, and more.
 
 Some of the useful features like automatically closing a ticket after a set time without a user response, are part of the premium version.
 
-💵 Tickety's Premium is $6 per Month, 40$ per Year or 70$ Lifetime
+💵 Tickety's Premium is $6 per Month, 40$ per Year, or 70$ Lifetime. The premium plan also includes complete bot customization.
 
 {% embed url="https://tickety.top/" %}
