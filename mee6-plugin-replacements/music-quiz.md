@@ -2,7 +2,7 @@
 
 ### Music Quiz/Guess The Song - [Jockie Music](https://www.jockiemusic.com/commands?category=game)
 
-Apart from this bot being a conventionally good music bot with an absolute ass-load of features, the one we're showcasing now is the Guess The Song, or the Music Quiz feature. Not only can you create music quizzes for free, but you can choose to not include certain genres of music, or only include specific genres. You can also specific from which era of music history you're most knowledgeable in, and you can even include a Spotify playlist and let the bot determine the style of music you want! Lastly you can determine the winning number of songs guessed correctly, and the number of songs in total! \
+Apart from this bot being a conventionally good music bot with an absolute ass-load of features, the one we're showcasing now is the Guess The Song, or the Music Quiz feature. Not only can you create music quizzes for free, but you can choose to not include certain genres of music, or only include specific genres. You can also specify from which era of music history you're most knowledgeable, and you can even include a Spotify playlist and let the bot determine the style of music you want! Lastly, you can determine the winning number of songs guessed correctly, and the number of songs in total! \
 _Price: $0_
 
 ### K-Pop Music Quiz - [K-pop Music Quiz](https://top.gg/bot/508759831755096074)
