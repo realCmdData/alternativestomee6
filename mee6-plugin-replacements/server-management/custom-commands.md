@@ -4,7 +4,7 @@
 
 MEE6 Custom Commands are exactly what it says. Creating custom prefixed commands in the server.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 They describe it as: "Automate tedious tasks or provide quick access to frequently used information using /commands." and it costs €12 per Month.
 

@@ -4,7 +4,7 @@
 
 MEE6 Reaction Roles plugin is made up of 6 different types. 5 of these are templates that you can use straight away.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 They describe it as: "Let your members self-assign roles linked to permissions, notifications or just for fun." and it costs €12 per Month.
 

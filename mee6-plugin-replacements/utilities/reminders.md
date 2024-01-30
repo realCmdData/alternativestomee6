@@ -4,7 +4,7 @@
 
 MEE6's Reminder plugin is a rare exception where every single feature in the Reminder Plugin is actually free. Now here's a shocker: It's also quite literally **the only feature that's completely free.**
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔍 Alternative 1: Dyno
 

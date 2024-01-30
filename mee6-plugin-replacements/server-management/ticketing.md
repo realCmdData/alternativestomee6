@@ -4,7 +4,7 @@
 
 MEE6 Ticketing Plugin creates a ticket in your desired channel.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 They describe it as: "Streamline and organize the support process and allow users to submit support requests." and it costs €12 per Month.
 

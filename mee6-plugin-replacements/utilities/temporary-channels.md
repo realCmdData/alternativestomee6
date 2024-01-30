@@ -4,7 +4,7 @@
 
 MEE6 Temporary channel plugin is used to create temporary voice channels where your members can create a hub, where they can invite other friends.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 They describe it as: "Create temporary voice channels that are automatically deleted after a certain amount of time." and it costs €12 per Month.
 

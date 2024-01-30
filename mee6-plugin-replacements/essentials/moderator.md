@@ -4,19 +4,19 @@
 
 MEE6 Moderator Plugin is made up of 4 types, Automod; Admin; Audit Logging; Commands.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Automod Contains a custom rule-setting, that you can use to set restrictions for things, such as: Bad words, Repeated text, Server invites, Mass emoji and such. It is also worth a mention that link detection for automod requires premium.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Admin section allows you to customize admin roles (also known as Immunity roles).
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Other tabs (Commands, Audit Logging) Contain what the title says. Commands are moderation commands, that you can edit to limit usage channels. and audit logging contains logs that MEE6 can make. (except for a fact that message events require premium)
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 They describe it as: "Set up filters for bad or disruptive behaviors and words and let MEE6 do the rest." and it costs €12 per Month.
 

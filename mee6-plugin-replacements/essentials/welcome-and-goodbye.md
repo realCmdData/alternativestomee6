@@ -6,7 +6,7 @@ MEE6 Welcome & Goodbye feature Has different options to choose from (listed Belo
 
 As for this Price of €12 per month, it is definitely a steal.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔍 Alternative 1: ProBot
 

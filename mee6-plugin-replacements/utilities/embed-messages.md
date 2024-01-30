@@ -4,7 +4,7 @@
 
 MEE6 Embed Messages Plugin is used to send, and manage embeds sent by MEE6.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 They describe it as: "With our visual Embed editor, your announcements, rules, and other events will never go unnoticed again." and it costs €12 per Month.
 

@@ -5,7 +5,7 @@
 Mee6 recently removed notifications from it’s free service entirely, when all it ever was, was RSS feeds. MonitoRSS is the free and customizable, web-dashboard included bot for all of your RSS feeds. Simply google how to get the RSS link to your favourite internet service, and the bot will send a notification to your server within 5 minutes of it being posted! New youtube videos, twitch streams, reddit posts, twitter posts, if it’s on the internet and popular enough, you’ll be sure to find an RSS feed hidden in there somewhere! Don’t pay for features as old as the internet itself!\
 _Price: $0_
 
-![Social Media Notifications Monitorss](<../.gitbook/assets/image (11) (1).png>)
+![Social Media Notifications Monitorss](<../.gitbook/assets/image (11) (1) (1).png>)
 
 ### Social Media Notifications - [Pingcord](https://pingcord.xyz/)
 
