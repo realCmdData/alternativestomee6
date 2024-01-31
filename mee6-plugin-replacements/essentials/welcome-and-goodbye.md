@@ -4,7 +4,7 @@
 
 MEE6 Welcome & Goodbye feature Has different options to choose from (listed Below). They describe it as: "Automatically give new members a warm welcome on your server with a style message, image and role." and it costs **€12 per Month.**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 As for this Price of €12 per month, it is definitely a ripoff.
 
