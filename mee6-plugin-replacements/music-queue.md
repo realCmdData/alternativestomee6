@@ -2,8 +2,14 @@
 
 ### Music - [Jockie Music](https://www.jockiemusic.com/)
 
-Jockie Music is the one-stop shop for almost all of your music needs! Although it can be a little tough to get to know all of its commands and configuration steps, the sheer level of customization is almost unnecessary. Not only that but the website provides robust and easy-to-use documentation so with a bit of reading you'll be able to configure Jockie Music to act exactly how you want it to. Jockie Music was also initially created to be a system of bots joining together to act as one. One system of commands for 4 or more bots so you don't need to change prefixes for each new music bot you want to add to your multitude of channels!\
-_Price: $0_
+Jockie Music is the one-stop shop for almost all of your music needs! Although it can be a little tough to get to know all of its commands and configuration steps, the sheer level of customization is almost unnecessary. Not only that but the website provides robust and easy-to-use documentation so with a bit of reading you'll be able to configure Jockie Music to act exactly how you want it to. Jockie Music was also initially created to be a system of bots joining together to act as one. One system of commands for 4 or more bots so you don't need to change prefixes for each new music bot you want to add to your multitude of channels!
+
+{% hint style="info" %}
+Price: 0$\
+However, some features are limited
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 ### Music #2 - [Green-bot](https://green-bot.app/)
 
