@@ -13,8 +13,14 @@ However, some features are limited
 
 ### Music #2 - [Green-bot](https://green-bot.app/)
 
-Green-bot might be a little new to the block but it is a surprisingly easy-to-use music bot with slash commands and a super intuitive web dashboard to play music like you're on Spotify with your friends! However, what Green-bot wins for simplicity loses in design as the web dashboard, unfortunately, does not look exactly "finished". It also locks quite a few features behind a paid premium subscription such as autoplay, track announcements, 24/7 music, and more.\
-_Price: $0_
+Green-bot might be a little new to the block but it is a surprisingly easy-to-use music bot with slash commands and a super intuitive web dashboard to play music like you're on Spotify with your friends! However, what Green-bot wins for simplicity loses in design as the web dashboard, unfortunately, does not look exactly "finished". It also locks quite a few features behind a paid premium subscription such as autoplay, track announcements, 24/7 music, and more.
+
+{% hint style="info" %}
+Price: 0$\
+However, Some Features are limited
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 ### Music #3 - [Chip Bot](https://chipbot.gg/home)
 
