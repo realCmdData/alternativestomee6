@@ -2,7 +2,13 @@
 
 ### 👑 MEE6
 
-We're not entirely sure what you can do with the MEE6 Ticketing feature since it's a Premium feature and doesn't show us what you can configure if you have Premium. They describe it as: "Streamline and organize the support process and allow users to submit support requests." and it costs €12 per Month.
+MEE6 Ticketing Plugin creates a ticket in your desired channel.
+
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+
+They describe it as: "Streamline and organize the support process and allow users to submit support requests." and it costs €12 per Month.
+
+As for the price of €12 per Month, it is a complete ripoff.
 
 ### 🔍 Alternative 1: Ticket King
 
@@ -16,11 +22,11 @@ The only drawback is that the free version is only limited to letting you genera
 
 {% embed url="https://ticketking.xyz/" %}
 
-### 🔍 Alternative 2: Helper.gg&#x20;
+### 🔍 Alternative 2: Helper.gg
 
-Helper.gg is a solid Ticketing Bot as well that has some unique features that Ticket King doesn't, such as letting admins view statistics of the tickets that are being generated, a web overview of all past and currently in progress Tickets, and a whole load of interesting customization features.&#x20;
+Helper.gg is a solid Ticketing Bot as well that has some unique features that Ticket King doesn't, such as letting admins view statistics of the tickets that are being generated, a web overview of all past and currently in progress Tickets, and a whole load of interesting customization features.
 
-Unfortunately some really helpful automation features such as automatically closing a ticket after a certain time without a response has passed and closing a ticket when a user leaves the server are locked behind a premium model.&#x20;
+Unfortunately some really helpful automation features such as automatically closing a ticket after a certain time without a response has passed and closing a ticket when a user leaves the server are locked behind a premium model.
 
 What also is concerning is that Helper.gg is only one bot amongst a planned many different bots made by a company, Parent.gg. This means that avid developers are not running it but a company made to make a profit which could lead to the same sort of practices that MEE6 has adopted in the future, but for now, it's a good enough bot to use.
 
@@ -30,9 +36,7 @@ What also is concerning is that Helper.gg is only one bot amongst a planned many
 
 ### 🔍 Alternative 3: Tickety;
 
-Tickety is a handy tool for Discord servers. You can close tickets for free when a user leaves, claim tickets easily, assign multiple support roles to a single panel, and assign each panel its own category. It comes with both an in-discord editor and a user-friendly dashboard for your convenience. Plus, you can check your server's history from the web panel.
-You also have no ticket limit and a max of 25 panels on the free plan which seems fair.
-It's possible to create autoresponders (or custom commands) for free. They can either work in all of the channels or ticket-only channels, require a specific role to use, and more.
+Tickety is a handy tool for Discord servers. You can close tickets for free when a user leaves, claim tickets easily, assign multiple support roles to a single panel, and assign each panel its own category. It comes with both an in-discord editor and a user-friendly dashboard for your convenience. Plus, you can check your server's history from the web panel. You also have no ticket limit and a max of 25 panels on the free plan which seems fair. It's possible to create autoresponders (or custom commands) for free. They can either work in all of the channels or ticket-only channels, require a specific role to use, and more.
 
 Some of the useful features like automatically closing a ticket after a set time without a user response, are part of the premium version.
 
