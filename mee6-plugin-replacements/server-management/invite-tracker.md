@@ -2,7 +2,13 @@
 
 ### 👑 MEE6
 
-We're not entirely sure what you can do with the MEE6 Invite Tracker feature since it's a Premium feature and doesn't show us what you can configure if you have Premium. They describe it as: "Track how many people your members invite to your community and rank them in a leaderboard." and it costs €12 per Month.
+MEE6 Ticketing Plugin creates a ticket in your desired channel.
+
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+
+They describe it as: "Streamline and organize the support process and allow users to submit support requests." and it costs €12 per Month.
+
+As for the price of €12 per Month, it is a complete ripoff.
 
 ### 🔍 Alternative 1: Invite Management (Invi Bot)
 
@@ -16,6 +22,6 @@ Tier 1 is $2.5 per Month, Tier 2 is $6 per Month and Tier 3 is $15 - $25 per Mon
 
 ### 🔍 Alternative 2: Invite Tracker
 
-Yet another bot whose name describes what it does! It is definitely the most popular alternative Invite Tracker out there, however it does seem to have a lot of premium/locked features. You can only blacklist 5 users from being tracked which if you run a large server might be a deal-breaker already.&#x20;
+Yet another bot whose name describes what it does! It is definitely the most popular alternative Invite Tracker out there, however it does seem to have a lot of premium/locked features. You can only blacklist 5 users from being tracked which if you run a large server might be a deal-breaker already.
 
 {% embed url="https://invite-tracker.com/" %}
