@@ -24,5 +24,10 @@ However, Some Features are limited
 
 ### Music #3 - [Chip Bot](https://chipbot.gg/home)
 
-Chip Bot is a long-standing totem of the free music bot pillar. It packs a ton of command features into a free all-in-one package, however unfortunately does not innovate where Green-bot and Jockie Music have, yet still delivers a complete package including audio filters, 24/7, autoplay, configuration, and more.\
-_Price: $0_
+Chip Bot is a long-standing totem of the free music bot pillar. It packs a ton of command features into a free all-in-one package, however unfortunately does not innovate where Green-bot and Jockie Music have, yet still delivers a complete package including audio filters, 24/7, autoplay, configuration, and more.
+
+{% hint style="info" %}
+Price: 0$
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
