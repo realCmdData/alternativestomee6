@@ -5,6 +5,7 @@
   * [Sapphire](all-in-one-replacements/sapphire.md)
   * [Dyno](all-in-one-replacements/dyno.md)
   * [Atlas](all-in-one-replacements/atlas.md)
+  * [Gervase](all-in-one-replacements/gervase.md)
 * [MEE6 Plugin Replacements](mee6-plugin-replacements/README.md)
   * [Essentials](mee6-plugin-replacements/essentials/README.md)
     * [👑 Welcome & Goodbye](mee6-plugin-replacements/essentials/welcome-and-goodbye.md)
