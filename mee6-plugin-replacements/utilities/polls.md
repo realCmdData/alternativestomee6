@@ -2,7 +2,13 @@
 
 ### 👑 MEE6
 
-We're not entirely sure what you can do with the MEE6 Polls feature since it's a Premium feature and doesn't show us what you can configure if you have Premium. They describe it as: "Polls are one of the easiest ways of engaging your community and allowing them to impact the action." and it costs €12 per Month.
+MEE6 Polls plugin is used to create polls inside a server where your member can vote on.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+They describe it as: "Polls are one of the easiest ways of engaging your community and allowing them to impact the action." and it costs €12 per Month.
+
+as for the price of €12 per Month, it is a complete ripoff.
 
 ### 🔍 Alternative 1: Dyno
 
