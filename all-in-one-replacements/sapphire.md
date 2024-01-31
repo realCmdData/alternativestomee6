@@ -23,15 +23,3 @@ Therefore the **optional** price is €5 - €15 per Month
 {% embed url="https://sapph.xyz/" %}
 
 ### 🎨Images
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
