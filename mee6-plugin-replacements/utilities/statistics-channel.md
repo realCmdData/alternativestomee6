@@ -2,15 +2,21 @@
 
 ### 👑 MEE6
 
-We're actually not entirely sure what you can do with the MEE6 Statistics Channel feature since it's a Premium feature and doesn't show us what you can configure if you have Premium. They describe it as: "Display your server's or social's statistics directly in the sidebar and stay on track." and it costs €12 per Month.
+MEE6 Statistics Channel Plugin is made to display server, social, crypto, NFT statistics as a voice channel.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+They describe it as: "Display your server's or social's statistics directly in the sidebar and stay on track." and it costs €12 per Month.
+
+as for the price of €12 per Month, it is a kind of reasonable price, but it is still expensive.
 
 ### 🔍 Alternative 1: Statbot
 
 Statbot is a full-package statistics bot that lets you track so many different things about your Discord server, however, for now, we're going to stick to the Statistics Channel feature which they call "Statdocks".
 
-On the surface, they have a very well-designed Menu and Button system for setting up your Statdock, and you can set up counters for member statistics, server statistics, and even different timezones. However, for Social statistics, it is again Premium only.&#x20;
+On the surface, they have a very well-designed Menu and Button system for setting up your Statdock, and you can set up counters for member statistics, server statistics, and even different timezones. However, for Social statistics, it is again Premium only.
 
-The monetization is a little weird, however, since you can "pick and choose" which upgrades you want for your Statbot instance.&#x20;
+The monetization is a little weird, however, since you can "pick and choose" which upgrades you want for your Statbot instance.
 
 💵 If in this case you only want the Statdock upgrade, it's only $3 per Month or if you want the full package it's a very uneven $12.71 per Month.
 
