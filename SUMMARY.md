@@ -5,6 +5,7 @@
   * [Sapphire](all-in-one-replacements/sapphire.md)
   * [Dyno](all-in-one-replacements/dyno.md)
   * [Carl](all-in-one-replacements/carl.md)
+  * [YAGPDB](all-in-one-replacements/yagpdb.md)
   * [Atlas](all-in-one-replacements/atlas.md)
   * [Gervase](all-in-one-replacements/gervase.md)
 * [MEE6 Plugin Replacements](mee6-plugin-replacements/README.md)
