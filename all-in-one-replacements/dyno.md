@@ -10,7 +10,7 @@ While Dyno's Premium plan has some limitations, most of them can be supplemented
 
 ### 🤔 Who's It For
 
-Dyno is an extremely wide-reaching bot, and as such it's a very good choice for pretty much every type of server and every level of Discord Administrator. However we wouldn't recommend it for extremely large Discord servers that are very active and rely heavily on moderation since Dyno is historically more prone to downtime.&#x20;
+Dyno is an extremely wide-reaching bot, and as such it's a very good choice for pretty much every type of server and every level of Discord Administrator. However we wouldn't recommend it for extremely large Discord servers that are very active and rely heavily on moderation since Dyno is historically more prone to downtime.
 
 ### 💵 Price
 
@@ -25,3 +25,17 @@ Tier 2 - $10 per Month ($100 per Year)
 {% endhint %}
 
 {% embed url="https://dyno.gg/" %}
+
+### 🎨Images
+
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>

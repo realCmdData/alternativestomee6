@@ -2,7 +2,11 @@
 
 ### 👑 MEE6
 
-We're not entirely sure what you can do with the MEE6 Automation feature since it's a Premium feature and doesn't show us what you can configure if you have Premium. They describe it as: "Let your members self-assign roles linked to permissions, notifications, or just for fun." and it costs €12 per Month.
+MEE6 Reaction Roles plugin is made up of 6 different types. 5 of these are templates that you can use straight away. They describe it as: "Let your members self-assign roles linked to permissions, notifications or just for fun." and it costs €12 per Month.
+
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+As for this Price of €12 per Month, it is a complete ripoff.
 
 ### 🔍 Alternative 1: Discord itself...
 
@@ -12,11 +16,11 @@ From there you need to set up the 'Onboarding' section until you come to the par
 
 💵 It's free, unless it becomes a Discord Nitro restriction somehow...
 
-### 🔍 Alternative 2: Maki&#x20;
+### 🔍 Alternative 2: Maki
 
 If you absolutely need a bot that does reaction roles in the traditional style, Maki is a solid option that does a lot more than just reaction roles.
 
-You can create up to 10 reaction roles with any roles you like, and using the dashboard you can even send a message yourself, copy the message link, and tell Maki to add on reaction roles later on!&#x20;
+You can create up to 10 reaction roles with any roles you like, and using the dashboard you can even send a message yourself, copy the message link, and tell Maki to add on reaction roles later on!
 
 💵 You get 10 messages to add Reaction Roles to. For €7 per Month, you can increase that limit to 100.
 

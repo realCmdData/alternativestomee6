@@ -16,6 +16,6 @@ Tier 1 is $2.5 per Month, Tier 2 is $6 per Month and Tier 3 is $15 - $25 per Mon
 
 ### 🔍 Alternative 2: Invite Tracker
 
-Yet another bot whose name describes what it does! It is definitely the most popular alternative Invite Tracker out there, however it does seem to have a lot of premium/locked features. You can only blacklist 5 users from being tracked which if you run a large server might be a deal-breaker already.&#x20;
+Yet another bot whose name describes what it does! It is definitely the most popular alternative Invite Tracker out there, however it does seem to have a lot of premium/locked features. You can only blacklist 5 users from being tracked which if you run a large server might be a deal-breaker already.
 
 {% embed url="https://invite-tracker.com/" %}

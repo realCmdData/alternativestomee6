@@ -2,7 +2,13 @@
 
 ### 👑 MEE6
 
-We're actually not entirely sure what you can do with the MEE6 Embed Messages feature since it's a Premium feature and doesn't show us what you can configure if you have Premium. They describe it as: "With our visual Embed editor, your announcements, rules, and other events will never go unnoticed again." and it costs €12 per Month.
+MEE6 Embed Messages Plugin is used to send, and manage embeds sent by MEE6.
+
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
+They describe it as: "With our visual Embed editor, your announcements, rules, and other events will never go unnoticed again." and it costs €12 per Month.
+
+As for the price of €12 per Month, it is a complete ripoff.
 
 ### 🔍 Alternative 1: Embed Generator
 
@@ -12,13 +18,13 @@ Embed Generator has a live updating website that lets you create a stylize your 
 
 Although you can save up to 25 messages to edit or send them later on as a template, you need to buy premium if you want to save up to 100 messages. The bot also has a custom commands feature that is premium only, but we urge you to check out our Custom Commands & the Automation section for alternatives to that.
 
-💵 Embed Generator Premium is $5 per Month&#x20;
+💵 Embed Generator Premium is $5 per Month
 
 {% embed url="https://message.style/" %}
 
 ### 🔍 Alternative 2: Atlas Bot
 
-Atlas Bot is yet another bot we have already featured as an All in One bot, but as the name implies an All in One bot can do a lot of things. In particular, we really like their implementation of what they call an 'Embed Builder'.&#x20;
+Atlas Bot is yet another bot we have already featured as an All in One bot, but as the name implies an All in One bot can do a lot of things. In particular, we really like their implementation of what they call an 'Embed Builder'.
 
 Fundamentally they have the same features as they both build on the same Discord feature, however, Atlas doesn't support components, which are the buttons you can now click on underneath certain embed messages. Unless you really need components though, we think Atlas' Embed Builder is a solid choice, especially since it can be exported as simple JSON and also can be used throughout other Atlas features by referencing the embed you've made with the Embed Builder Link.
 

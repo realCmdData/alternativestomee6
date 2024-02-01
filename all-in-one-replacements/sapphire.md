@@ -12,7 +12,7 @@ Sapphire is a little more complex to understand and will require a time investme
 
 ### 💵 Price
 
-Sapphire has a unique monetization model where they offer Custom Branding in exchange for money. In my opinion this is an excellent way of incentivizing a more premium Bot but without compromising it's features.&#x20;
+Sapphire has a unique monetization model where they offer Custom Branding in exchange for money. In my opinion this is an excellent way of incentivizing a more premium Bot but without compromising it's features.
 
 The only major drawback is that the price increases as the server size increases, I suspect to offset the potential loss of new users from the lack of branding on larger servers.
 
@@ -21,3 +21,19 @@ Therefore the **optional** price is €5 - €15 per Month
 {% endhint %}
 
 {% embed url="https://sapph.xyz/" %}
+
+### 🎨Images
+
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
