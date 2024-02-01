@@ -34,3 +34,4 @@
   * [Social Media Notifications](mee6-plugin-replacements/social-media-notifications.md)
 * [Resources & Help For Transitioning](resources-and-help-for-transitioning.md)
 * [Join our Discord](https://discord.gg/CGDxnTQSTj)
+* [Submit a bot](https://discord.gg/Cxsmuapypd)
