@@ -4,13 +4,13 @@
 
 MEE6 Economy Plugin is kind of advanced (except for a fact that everything is premium, i mean everything!).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 MEE6 allows you to make your own custom currency that your server members can grind on, and lose their minds.&#x20;
 
 And of course, how do we find a plugin that doesn't have something limited and/or entirely locked up behind premium.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 There are 3 items by default, if you want to add more items, you have to get premium.&#x20;
 

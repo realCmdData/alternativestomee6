@@ -8,7 +8,7 @@ MEE6 Moderator Plugin is made up of 4 types, Automod; Admin; Audit Logging; Comm
 
 Automod Contains a custom rule-setting, that you can use to set restrictions for things, such as: Bad words, Repeated text, Server invites, Mass emoji and such. It is also worth a mention that link detection for automod requires premium.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Admin section allows you to customize admin roles (also known as Immunity roles).
 

@@ -8,7 +8,7 @@ MEE6 Audit Logging is just as any other audit logger bot, it logs events that ha
 
 It Starts off Normally by letting you choose the channel where all the events will be logged.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Except for a fact that, the most important, Message events is locked up behind premium. Honestly, Message event logging is very important, even more if invite posted is behind premium, you will never figure out what the person deleted, or edited without MEE6 Premium!
 
