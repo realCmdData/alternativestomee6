@@ -4,7 +4,7 @@
 
 MEE6 Polls plugin is used to create polls inside a server where your member can vote on.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 They describe it as: "Polls are one of the easiest ways of engaging your community and allowing them to impact the action." and it costs €12 per Month.
 

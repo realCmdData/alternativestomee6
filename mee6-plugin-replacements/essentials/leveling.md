@@ -4,11 +4,11 @@
 
 MEE6 Leveling is made up of 2 types. Leveling message, and leveling roles. Leveling message tab is really not impressive, only thing you can edit is what mee6 sends, and the channel that its sent to.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As for level Roles and Channels, it just contains that.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 They describe it as: "Boost your engagement by making your members compete and earn rewards by being active." and it costs €12 per Month.
 

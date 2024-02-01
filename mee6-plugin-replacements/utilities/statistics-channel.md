@@ -4,7 +4,7 @@
 
 MEE6 Statistics Channel Plugin is made to display server, social, crypto, NFT statistics as a voice channel.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 They describe it as: "Display your server's or social's statistics directly in the sidebar and stay on track." and it costs €12 per Month.
 

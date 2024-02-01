@@ -4,7 +4,7 @@
 
 MEE6 Automations is made up of 4 types. 3 are templates, Welcomer; Starboard; Thread joiner; 4th type is from scratch.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 They describe it as: "Choose your triggers and conditions for different actions and put your actions on auto pilot." and it costs €12 per Month.
 
