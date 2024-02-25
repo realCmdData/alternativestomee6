@@ -29,5 +29,6 @@
   * [Music](mee6-plugin-replacements/music-queue.md)
   * [Music Quiz](mee6-plugin-replacements/music-quiz.md)
   * [Social Media Notifications](mee6-plugin-replacements/social-media-notifications.md)
+  * [Ai](mee6-plugin-replacements/ai.md)
 * [Resources & Help For Transitioning](resources-and-help-for-transitioning.md)
 * [Join our Discord](https://discord.gg/CGDxnTQSTj)
