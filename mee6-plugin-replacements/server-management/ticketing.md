@@ -39,3 +39,13 @@ Some of the useful features like automatically closing a ticket after a set time
 💵 Tickety's Premium is $6 per Month, 40$ per Year, or 70$ Lifetime. The premium plan also includes complete bot customization.
 
 {% embed url="https://tickety.top/" %}
+
+### 🔍 Alternative 4: Ticket Tool
+
+Ticket Tool is a powerful and versatile Discord bot designed to streamline support and ticketing processes on your server. Its user-friendly web dashboard and extensive customization options make it one of the most reliable ticketing bots available. You can easily create multiple ticket panels, manage permissions, and assign roles for ticket handling. Its clean and organized system ensures that support requests are handled efficiently. 
+
+Ticket Tool allows unlimited tickets, customizable auto-responders, and advanced logging features like saving transcripts directly to your server. Its premium plan unlocks additional features like advanced automation and exclusive customization options.
+
+💵 Ticket Tool Premium is $8 per Month or $66 per Year
+
+{% embed url="https://tickettool.xyz/" %}
