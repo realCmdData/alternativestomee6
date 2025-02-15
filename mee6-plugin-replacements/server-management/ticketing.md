@@ -30,13 +30,11 @@ What also is concerning is that Helper.gg is only one bot amongst a planned many
 
 ### 🔍 Alternative 3: Tickety;
 
-Tickety is a handy tool for Discord servers. You can close tickets for free when a user leaves, claim tickets easily, assign multiple support roles to a single panel, and assign each panel its own category. It comes with both an in-discord editor and a user-friendly dashboard for your convenience. Plus, you can check your server's history from the web panel.
-You also have no ticket limit and a max of 25 panels on the free plan which seems fair.
-It's possible to create autoresponders (or custom commands) for free. They can either work in all of the channels or ticket-only channels, require a specific role to use, and more.
+Tickety is a user-friendly Discord bot that helps manage support tickets efficiently. With Tickety, you can close tickets when a user leaves, claim tickets easily, assign multiple support roles to a single panel, and set specific categories for each panel. It offers both an in-Discord editor and a simple dashboard for easy management. The free plan includes unlimited tickets and up to 25 panels, which is suitable for most servers. You can also create custom commands or autoresponders at no cost, allowing automation and role-specific access.
 
-Some of the useful features like automatically closing a ticket after a set time without a user response, are part of the premium version.
+💵 For advanced features like automatic ticket closure after inactivity and full bot customization, Tickety offers a premium plan. Premium is priced at $6 per month, $45 per year, or a one-time payment of $70 for lifetime access. This plan adds extra tools for servers seeking enhanced capabilities.
 
-💵 Tickety's Premium is $6 per Month, 40$ per Year, or 70$ Lifetime. The premium plan also includes complete bot customization.
+In summary, Tickety provides a wide range of essential features for free, ensuring smooth server operation without requiring premium upgrades. The premium plan is an optional addition for those wanting more customization and automation. 
 
 {% embed url="https://tickety.top/" %}
 
