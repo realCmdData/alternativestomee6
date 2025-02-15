@@ -12,7 +12,7 @@ It lets you save transcripts and claim tickets so moderators don't get confused 
 
 The only drawback is that the free version is only limited to letting you generate one panel, meaning if you want to have two ticketing systems for, for example, user reports and then user suggestions you'll need to pay for the premium.
 
-💵 The Premium Ticket King costs $5 per Month or $50 Lifetime
+💵 Ticket King Premium plan starts at just $5/month for servers with up to 1,000 members. For larger servers, pricing is $10/month.
 
 {% embed url="https://ticketking.xyz/" %}
 
