@@ -24,7 +24,7 @@ Unfortunately some really helpful automation features such as automatically clos
 
 What also is concerning is that Helper.gg is only one bot amongst a planned many different bots made by a company, Parent.gg. This means that avid developers are not running it but a company made to make a profit which could lead to the same sort of practices that MEE6 has adopted in the future, but for now, it's a good enough bot to use.
 
-💵 Helper.gg's Premium is $4 per Month for Ticket Automation and Translation, and for a total of $6 per Month, their Supreme upgrade gives you complete bot customization.
+💵 Helper.gg's Premium is $5 per Month for Ticket Automation and Translation, and for a total of $9 per Month, their Supreme upgrade gives you complete bot customization.
 
 {% embed url="https://helper.gg/" %}
 
