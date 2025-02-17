@@ -47,3 +47,19 @@ If you're thinking of using Zeppelin for a smaller server, you can always self-h
 💵 Zeppelin used to have an optional Patreon but has since been discontinued.
 
 {% embed url="https://zeppelin.gg" %}
+
+### 🔍 Alternative 5: [Cakey Bot](https://cakey.bot/)
+
+Cakey bot is also another All-in-One Replacement for MEE6 and like Sapphire it's no surprise that on of it's main features is excellent moderator tools and automation.
+In addition to Cakey Bot's powerful Audit Logging capabilities which we cover on the audit logging page, Cakey Bot contains a wide selection of auto moderation tools and commands that make managing your server a breeze. You can configure a huge selection of automatic rules include mass emjoji, mass mention spam, discord invite links, website blacklists and more.
+One of the most commonly used feature's is Cakey Bot's constantly updated "Anti-Phishing" moderation rule which scans multiple online sources for known-malicious websites to detetc and block. In addition to this, Cakey Bot also live-scans any website that is not on any known lists for additional protection!
+
+Cakey Bot also has several unique features as well like being able to lock specific channels to particular categories of content. such as making a "counting only" channel or a channel where users can only post their spotify playlisr URLs. This allows users to share their favoriate content without cluttering the channels with general conversations. 
+
+There is also the "Auto Ban" feature that allows you to automatically ban user accounts when they join your server if they meet specific requirements. Some common attributes used during bot raids are new accounts that are elss than a day old, usernames that contain invite URLs or accounts missing avatar pictures. All of which can be configured.
+
+Cakey Bot also has a very unique feature that large communities may find sueful as well: "Ban Sync". This allows server owners to group several of their servers into a single "pool" where Cakey Bot will synchronize any bans in one server to all of the other servers within the pool. allowing large server networks to maintain consistent bans across all of their servers.
+
+💵 All of Cakey Bot's moderation features are completely FREE.
+
+{% embed url="https://cakey.bot/" %}
