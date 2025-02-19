@@ -10,7 +10,7 @@ A Ticket Bot is supposed to help you stay organized when creating support reques
 
 It lets you save transcripts and claim tickets so moderators don't get confused with who is handling which ticket, lets you set the category in which each ticket is created a lot more!
 
-The only drawback is that the free version is only limited to letting you generate one panel, meaning if you want to have two ticketing systems for, for example, user reports and then user suggestions you'll need to pay for the premium.
+The free plan allows you to generate up to 10 panels, making it versatile enough for multiple ticketing systems—for example, one for user reports and another for user suggestions. With the premium plan, you get unlimited panels.
 
 💵 Ticket King Premium plan starts at just $5/month for servers with up to 1,000 members. For larger servers, pricing is $10/month.
 
