@@ -11,3 +11,10 @@ _Price: $0_
 
 Pingcord takes a very similar, yet automatic approach to notifications as MonitoRSS does, and allows you to add TikTok, Instagram, YouTube, Twitch, Reddit, Facebook & Twitter notifications to your server. Where it lacks though is in its premium locked Spotify notification service and the 'coming soon' nature of custom RSS feeds, which is what MonitoRSS is perfect for. It is still however an easy-to-use notification tool for those who just want to be pinged and aren't too bothered about how it looks.\
 _Price: $0_&#x20;
+
+### Social Media Notifications - [Wamellow](https://wamellow.com/docs/notifications)
+
+Wamellow lets you add notifications for YouTube, Twitch, Bluesky (Twitter/X clone) and Reddit. You can setup custom messages and embeds with over 40 different variables, post filters using regex and content types.\
+_Price: $0_ 
+
+![Social Media Notifications Wamellow](<../.gitbook/assets/wamellow-notifications.png>)
