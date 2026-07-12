@@ -23,3 +23,11 @@ For that small oversight, it does make up for with sheer number of customization
 💵 Adding a Custom Background to your Welcome Image is a premium feature for a one-time payment of $6
 
 {% embed url="https://www.welcomer.gg" %}
+
+### 🔍 Alternative 3: Wamellow
+
+Add custom content, embed, images, card background and more for free. You can also choose to give members roles, ghost ping them in channels, restore their nickname and roles if they re-joined, delete the welcome message after a certain time, delete the welcome message if the member leaves, add reactions to the welcome message or reactions to the member's first message. You can also choose to send the member a DM.
+
+💵 All of the features for Wamellow listed above are completely free.
+
+{% embed url="https://wamellow.com/docs/greetings" %}
