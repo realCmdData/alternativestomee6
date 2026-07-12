@@ -20,6 +20,6 @@ As it is in the name of the bot we expect this bot to be really good, and it is.
 
 For that small oversight, it does make up for with sheer number of customization options. Honestly speaking, both of these bots will do the job 99% of people want from a Welcome & Goodbye function.
 
-💵 Adding a Custom Background to your Welcome Image is a premium feature for a one-time payment of $6
+💵 Adding a Custom Background to your Welcome Image is a premium feature for a one-time payment of $12
 
 {% embed url="https://www.welcomer.gg" %}
