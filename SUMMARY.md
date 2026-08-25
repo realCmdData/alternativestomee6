@@ -26,6 +26,7 @@
   * [Audit Logging](mee6-plugin-replacements/audit-logging.md)
   * [Birthdays](mee6-plugin-replacements/birthdays.md)
   * [Economy](mee6-plugin-replacements/economy.md)
+  * [Generative Ai](mee6-plugin-replacements/generative-ai.md)
   * [Music](mee6-plugin-replacements/music-queue.md)
   * [Music Quiz](mee6-plugin-replacements/music-quiz.md)
   * [Social Media Notifications](mee6-plugin-replacements/social-media-notifications.md)
