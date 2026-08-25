@@ -12,7 +12,7 @@ It lets you save transcripts and claim tickets so moderators don't get confused 
 
 The free plan allows you to generate up to 10 panels, making it versatile enough for multiple ticketing systems—for example, one for user reports and another for user suggestions. With the premium plan, you get unlimited panels.
 
-💵 Ticket King Premium plan starts at just $5/month for servers with up to 1,000 members. For larger servers, pricing is $10/month.
+💵 Ticket King Premium plan starts at just $5/month for servers with up to 10,000 members. For larger servers, pricing is $10/month.
 
 {% embed url="https://ticketking.xyz/" %}
 
