@@ -6,3 +6,10 @@ With UnbelievaBoat you can set up a completely customizable economy system, comp
 _Price: $0_
 
 ![Economy UnbelievaBoat](<../.gitbook/assets/image (6).png>)
+
+### Economy/Thanks - [Levay](https://levay.xyz/discord)
+
+Levay is an economy built on members thanking each other. A member runs `/thanks @member reason amount`, and the amount moves from their own daily allowance to the member who helped. The giver gets nothing back, so the currency cannot be farmed. Members spend what they received in a server shop on roles, codes and other items the admin adds. Admins can add or remove currency for any member from the web dashboard, and every change is recorded. Profile cards, levels and a weekly leaderboard post are included. There are no games or work commands: currency only comes from other members.\
+_Price: $0 during early access_
+
+![Economy Levay](../.gitbook/assets/levay-economy.png)
