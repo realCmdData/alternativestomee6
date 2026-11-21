@@ -26,3 +26,13 @@ Compared to Lurkr, Polaris does lack a few features in terms of customization, s
 💵 Polaris is completely free.
 
 {% embed url="https://gdcolon.com/polaris/" %}
+
+### 🔍 Alternative 3: CARTIQO
+
+CARTIQO is an all-in-one bot whose levels module is free: XP per server and a global level, role rewards, public leaderboards and rank cards that members design themselves. Moving over is painless, because it can import your server's MEE6 levels from the dashboard, so nobody loses their progress.
+
+It's a good fit if you also want moderation, tickets and protection in the same bot. Premium adds XP multipliers, voice XP and a rank colour.
+
+💵 Levels and role rewards are free. Premium is €5.99 per Month per server, and free for every server during the beta until 1 January 2027.
+
+{% embed url="https://bot.cartiqolabs.com/" %}

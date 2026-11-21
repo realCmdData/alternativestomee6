@@ -47,3 +47,13 @@ If you're thinking of using Zeppelin for a smaller server, you can always self-h
 💵 Zeppelin used to have an optional Patreon but has since been discontinued.
 
 {% embed url="https://zeppelin.gg" %}
+
+### 🔍 Alternative 5: CARTIQO
+
+CARTIQO's moderation is free and built around evidence: every warn, timeout, kick or ban is a numbered case, and the bot captures the messages around it before anything is deleted, with copies of files and a SHA-256 hash, so a decision can be explained later. It has the usual commands (`/warn`, `/timeout`, `/ban` with durations, `/purge` with filters, `/quarantine`, `/massban` with a preview), staff roles and per-moderator limits, two people for a permanent ban, ban appeals on the web, and anti-nuke and raid lockdown that are on from the moment it joins.
+
+It's a newer bot (in beta in late 2026), so it doesn't have Zeppelin's or Wick's long track record yet, but the free tier covers a lot.
+
+💵 Moderation is free. Premium (€5.99 per Month per server) adds custom filter patterns and automatic punishments, and is free for every server during the beta until 1 January 2027.
+
+{% embed url="https://bot.cartiqolabs.com/" %}
